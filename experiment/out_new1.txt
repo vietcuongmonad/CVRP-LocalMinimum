@@ -1,0 +1,24 @@
+Total travel mileage:  1467
+Schedule of all car:
+ -> (u, v) here means (current location, current capacity)
+ u = 0 -> original location of car, u > 0 -> start-point of item u, u < 0 -> end-point of item -u
+Schedule for car 1:
+(0, 0) (4, 55) (-4, 0) (16, 50) (-16, 0) (10, 52) (-10, 0) (7, 67) (20, 69) (1, 69) (-20, 67) (-7, 0) (15, 35) (9, 67) (-9, 35) (5, 67) (-5, 35) (-1, 35) (12, 53) (-15, 18) (11, 46) (-11, 18) (-12, 0) (6, 49) (-6, 0) (0, 0) 
+Schedule for car 2:
+(0, 0) (0, 0) 
+Schedule for car 3:
+(0, 0) (0, 0) 
+Schedule for car 4:
+(0, 0) (0, 0) 
+Schedule for car 5:
+(0, 0) (0, 0) 
+Schedule for car 6:
+(0, 0) (13, 82) (-13, 0) (0, 0) 
+Schedule for car 7:
+(0, 0) (14, 34) (-14, 0) (8, 6) (2, 43) (-8, 37) (-2, 0) (0, 0) 
+Schedule for car 8:
+(0, 0) (0, 0) 
+Schedule for car 9:
+(0, 0) (0, 0) 
+Schedule for car 10:
+(0, 0) (19, 68) (-19, 0) (3, 96) (-3, 0) (18, 94) (-18, 0) (17, 86) (-17, 0) (0, 0) 
